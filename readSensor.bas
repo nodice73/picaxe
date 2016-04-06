@@ -1,5 +1,6 @@
 symbol N = 50
 symbol V = 5
+
 main:
     gosub avein
     sertxd("w1 ave: ", #w1, lf)
